@@ -1,0 +1,18 @@
+{
+  "thresh_closed": 0.7,
+  "window_sec": 2.0,
+  "main_alert_sec": 1.0,
+  "cam_index": 0,
+  "eye_side": "left",
+  "mirror": true,
+  "eye_margin": 0.75,
+  "left_eye_idx": [33,7,163,144,145,153,154,155,133,173,157,158,159,160,161,246],
+  "right_eye_idx":[263,249,390,373,374,380,381,382,362,398,384,385,386,387,388,466],
+  "alpha":1.35 ,
+  "beta":12 ,
+  "gauss_kernel":3 ,
+  "gauss_sigma": 0,
+  "frames_folder": "C:\\Users\\schulung\\Desktop\\P_MFT\\cods\\frames\\input_frames",
+  "out_folder": "C:\\Users\\schulung\\Desktop\\P_MFT\\cods\\frames\\out_folder"
+
+}
